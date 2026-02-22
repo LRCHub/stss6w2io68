@@ -1,9 +1,41 @@
 {
   "version": 1,
-  "base_track": "シンギュラリティ",
+  "base_track": "シンギュラリティ",
   "base_artist": "Vaundy",
-  "createdAt": "2026-02-16T19:51:52.499592Z",
+  "createdAt": "2026-02-22T16:11:13.871791Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンギュラリティ",
+      "artist": "ITO KANAKO",
+      "has_synced": true,
+      "path": "select/01_シンギュラリティ_ITO_KANAKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンギュラリティ",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/02_シンギュラリティ_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンギュラリティ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/03_シンギュラリティ_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シンギュラリティ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/04_シンギュラリティ_いとうかなこ.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
